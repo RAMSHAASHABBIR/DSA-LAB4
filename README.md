@@ -1,1 +1,2 @@
 # DSA-LAB4
+"Diving into the heart of DSA with a focus on Queues in C++! 🔄 Explore my GitHub repository to witness the intricacies of Dynamic Queue, Static Queue, and the versatile Double-Ended Queue. From efficient data handling to algorithmic excellence, this collection unveils the power of Queues in solving complex problems. Join me on this coding expedition as we navigate through the world of dynamic and static queues, discovering the elegance of C++ in data structure implementation. 💻🚀 #DSA #DataStructures #CPlusPlus #GitHubShowcase #CodingJourney"
